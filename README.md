@@ -1,2 +1,3 @@
 # hello
-Joint another repository
+Joint another repositor
+I am a little bird.
